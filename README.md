@@ -55,3 +55,5 @@ Exemple If you use Lketc and a Gaw Fury :
 
 ![](https://raw.githubusercontent.com/wareck/cgminer-lketc/master/docs/mining.png)
 
+https://sharedmemorydump.net/lketc-usb-scrypt-miner
+
